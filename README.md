@@ -54,10 +54,9 @@ You will need:
 - [Node.js 16+ (recommended 18 LTS)](https://nodejs.org/en/).
 - [Git](https://git-scm.com/).
 
-1. Clone or [fork](https://github.com/pheralb/svgl/fork) this repository:
-
+1. Clone or [fork](https://github.com/Aihvac/systemrahkar/fork) this repository:
 ```bash
-git clone git@github.com:pheralb/svgl.git
+git clone git@github.com:Aihvac/systemrahkar.git
 ```
 
 2. Install dependencies with your favorite package manager:
@@ -76,9 +75,9 @@ ultra install
 yarn install
 ```
 
-3. Go to the [**`static/library`**](https://github.com/pheralb/svgl/blob/main/static/library) folder and add your `.svg` logo. Remember to optimize SVG for web use, you can use [SVGOMG](https://jakearchibald.github.io/svgomg/).
+3. Go to the [**`static/library`**](https://github.com/aihvac/systemrahkar/blob/main/static/library) folder and add your `.svg` logo. Remember to optimize SVG for web use, you can use [SVGOMG](https://jakearchibald.github.io/svgomg/).
 
-4. Go to the [**`src/data/svgs.ts`**](https://github.com/pheralb/svgl/blob/main/src/data/svgs.ts) and add the information about your logo, following the structure:
+4. Go to the [**`src/data/svgs.ts`**](https://github.com/aihvac/systemrahkar/blob/main/src/data/svgs.ts) and add the information about your logo, following the structure:
 
 ```json
 {
@@ -94,7 +93,7 @@ And create a pull request with your logo 🚀.
 
 ## ✌️ Contributing
 
-<a href="https://github.com/pheralb/svgl/graphs/contributors">
+<a href="https://github.com/aihvac/systemrahkar/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pheralb/svgl" />
 </a>
 
@@ -102,4 +101,4 @@ And create a pull request with your logo 🚀.
 
 ## 🔑 License
 
-- [MIT](https://github.com/pheralb/svgl/blob/main/LICENSE).
+- [MIT](https://github.com/aihvac/systemrahkar/blob/main/LICENSE).
